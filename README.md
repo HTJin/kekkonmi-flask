@@ -1,3 +1,1 @@
-# kekkonmi-flask
-
-Rename to matrimoni
+# matrimoni-flask
